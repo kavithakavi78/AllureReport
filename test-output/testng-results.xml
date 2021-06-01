@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="1474" started-at="2020-12-10T07:02:50Z" finished-at="2020-12-10T07:02:52Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="1474" started-at="2020-12-10T07:02:50Z" finished-at="2020-12-10T07:02:52Z">
+      <class name="org.allure.Testng">
+        <test-method status="PASS" signature="setup()[pri:0, instance:org.allure.Testng@6ce139a4]" name="setup" is-config="true" duration-ms="69" started-at="2020-12-10T07:02:51Z" finished-at="2020-12-10T07:02:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="atest()[pri:0, instance:org.allure.Testng@6ce139a4]" name="atest" duration-ms="710" started-at="2020-12-10T07:02:51Z" finished-at="2020-12-10T07:02:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- atest -->
+        <test-method status="PASS" signature="btest()[pri:0, instance:org.allure.Testng@6ce139a4]" name="btest" duration-ms="15" started-at="2020-12-10T07:02:52Z" finished-at="2020-12-10T07:02:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- btest -->
+        <test-method status="PASS" signature="ctest()[pri:0, instance:org.allure.Testng@6ce139a4]" name="ctest" is-config="true" duration-ms="5" started-at="2020-12-10T07:02:52Z" finished-at="2020-12-10T07:02:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ctest -->
+      </class> <!-- org.allure.Testng -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
